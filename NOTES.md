@@ -24,12 +24,12 @@ Update this file whenever something is completed or a new decision is made.
 - [x] **Challenge 4** — `prompts/ux-research/interview-synthesis.md` added (first real prompt)
 - [x] Fixed broken image tag in `README.md`
 - [x] `NOTES.md` created (this file)
+- [x] `prompts/visual-design/visual-direction-brief.md` added (second real prompt — concept-to-brief, inspired by `@thedesignproject/agent-skills` `frontend-design` skill)
 
 ---
 
 ## 🔜 Up Next
 
-- [ ] Add a second prompt under `prompts/visual-design/`
 - [ ] Add first real case study under `case-studies/`
 - [ ] Add workflows for `ideation/`, `validation/`, `handoff/`
 - [ ] Add `prompts/content/` and `prompts/feedback/` folders with real prompts
@@ -45,6 +45,8 @@ Update this file whenever something is completed or a new decision is made.
 - Each folder has its own `README.md` as a guide for contributors
 - Workflow files follow a fixed 6-section format (Overview, Tools, Time, Steps, Tips, Output)
 - Prompt files follow a fixed format (Goal, Tool, Phase, Prompt, Example Output, Notes)
+- Public repo (`design-with-ai`) stays generic with `[PLACEHOLDERS]` — local overrides add specificity
+- Each prompt should include a `## Customize This` section listing placeholders to override locally (planned)
 
 ---
 
@@ -53,6 +55,7 @@ Update this file whenever something is completed or a new decision is made.
 | Date | What happened |
 |---|---|
 | 2026-07-20 | Resumed after lost session. Completed all 4 challenges. Created NOTES.md. |
+| 2026-07-20 | Added `prompts/visual-design/visual-direction-brief.md`. Discussed public/private repo strategy and challenges. |
 
 ---
 

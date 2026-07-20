@@ -2,6 +2,30 @@
 
 A public repository for sharing design skills, creative methods, and practical ways to use AI throughout the design process.
 
+---
+
+## 📁 Repository Structure
+
+```
+design-with-ai/
+├── prompts/          # Reusable AI prompts organized by design task
+├── workflows/        # Step-by-step design workflows combining AI + design practice
+├── case-studies/     # Real examples of AI in the design process
+├── resources/        # Curated tools, articles, courses, and communities
+├── CONTRIBUTING.md   # How to contribute
+├── LICENSE
+└── README.md
+```
+
+| Section | What's inside |
+|---|---|
+| [prompts/](./prompts/) | Prompts for UX research, visual design, content, and feedback |
+| [workflows/](./workflows/) | End-to-end workflows for discovery, ideation, validation, handoff |
+| [case-studies/](./case-studies/) | Real project examples with context, process, and lessons learned |
+| [resources/](./resources/) | Tools, articles, courses, and communities |
+
+---
+
 ## Purpose
 
 This repository is meant to help designers, creators, and teams:
@@ -10,6 +34,8 @@ This repository is meant to help designers, creators, and teams:
 - learn how to use AI effectively in design work,
 - share practical workflows and examples,
 - document prompts, methods, and lessons learned.
+
+---
 
 ## Topics Covered
 
@@ -21,6 +47,8 @@ This repository is meant to help designers, creators, and teams:
 - AI-assisted workflows
 - Case studies and examples
 
+---
+
 ## Who This Is For
 
 - Designers
@@ -29,19 +57,22 @@ This repository is meant to help designers, creators, and teams:
 - Creative technologists
 - Anyone exploring AI in design
 
+---
+
 ## Contributing
 
-Contributions are welcome. You can contribute by:
+Contributions are welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md) for full guidelines.
 
-- adding examples,
+You can contribute by:
+- adding prompts or examples,
 - improving documentation,
 - sharing workflows,
 - suggesting better prompts,
 - documenting real design use cases.
 
+---
+
 ## License
 
-Choose a license that matches your goals:
-- MIT for open reuse
-- CC-BY-4.0 for educational content
-![Uploading image.png…]()
+- **Code and scripts** — [MIT License](./LICENSE)
+- **Content, prompts, and examples** — [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

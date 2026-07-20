@@ -12,6 +12,23 @@ prompts/
 └── feedback/          # Prompts for critique, design reviews, iterations
 ```
 
+## Prompt Index
+
+### 🔬 UX Research
+
+| File | Goal | Phase |
+|------|------|-------|
+| [interview-synthesis.md](ux-research/interview-synthesis.md) | Turn raw interview notes into themes, pain points, and a problem statement | Discovery |
+
+### 🎨 Visual Design
+
+| File | Goal | Phase |
+|------|------|-------|
+| [component-description-to-figma-tokens.md](visual-design/component-description-to-figma-tokens.md) | Turn a plain-English component description into design tokens (JSON) | Visual Design / Handoff |
+| [visual-direction-brief.md](visual-design/visual-direction-brief.md) | Turn a vague brief or mood reference into a concrete, opinionated visual direction | Visual Design / Concept |
+
+---
+
 ## How to Contribute
 
 Each prompt file should follow the template below.
@@ -35,5 +52,7 @@ Optional: share a sample output or screenshot.
 
 Tips, variations, or known limitations.
 ```
+
+> ⚠️ **Maintainer note:** Update this README's Prompt Index every time a new prompt file is added or renamed.
 
 See [CONTRIBUTING.md](../CONTRIBUTING.md) for full guidelines.
